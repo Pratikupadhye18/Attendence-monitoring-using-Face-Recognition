@@ -1,9 +1,18 @@
 # 🎓 Face Recognition Attendance System
 
 A modern web-based attendance monitoring system that uses facial recognition technology to automatically mark student attendance. Built with Streamlit, OpenCV, and Supabase.
-
-
+🚀 Features
+Upload 2D floor plans (JPG/PNG)
+Auto-detect walls, doors, windows, furniture using YOLOv8
+Export structured JSON data
+Render realistic 3D floor plan in a walkthrough viewer
+Built with React + FastAPI + Three.js + Ultralytics
 ## 🚀 Quick Start
+
+🖥️ Running the Project Locally
+🔧 1. Clone the Repository
+git clone https://github.com/Aditya737698/2d-to-3d-floor-designer.git
+cd 2d-to-3d-floor-designer
 
 ### Prerequisites
 
