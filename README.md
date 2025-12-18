@@ -2,23 +2,6 @@
 
 A modern web-based attendance monitoring system that uses facial recognition technology to automatically mark student attendance. Built with Streamlit, OpenCV, and Supabase.
 
-## 🌟 Features
-
-- **Real-time Face Recognition**: Instant face detection and matching
-- **Student Registration**: Easy signup with photo capture
-- **Attendance Tracking**: Automatic attendance marking with duplicate prevention
-- **Admin Dashboard**: Comprehensive analytics and student management
-- **Cloud Storage**: Secure image storage with Supabase
-- **Responsive Design**: Works on desktop and mobile devices
-
-## 🛠️ Tech Stack
-
-- **Frontend**: Streamlit (Python web framework)
-- **Face Recognition**: `face_recognition` library (built on dlib)
-- **Computer Vision**: OpenCV for image processing
-- **Database**: Supabase (PostgreSQL with real-time features)
-- **Storage**: Supabase Storage for student photos
-- **Visualization**: Plotly for interactive charts
 
 ## 🚀 Quick Start
 
